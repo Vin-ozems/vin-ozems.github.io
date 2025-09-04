@@ -36,7 +36,7 @@ body {
 ol, ul {
 	list-style: none;
 }
-.top{
+.header{
 	background-color:red;
 }
 blockquote, q {
